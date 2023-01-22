@@ -1,0 +1,29 @@
+.navbar{
+    background-color: black;
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+}
+.nav-link:hover{
+    color: green;
+}
+.footer{
+    color: white;
+}
+footer{
+    background-color: black;
+    padding: 25px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    color: green;
+}
+.container{
+    /* padding-bottom: 173px; */
+    display: flex;
+}
